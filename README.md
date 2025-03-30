@@ -65,7 +65,12 @@ npm run dev
 - Read Todos: View your todos listed below the input field.
 - Update Todos: Edit the name of a todo by clicking the "Edit" button and updating it.
 - Mark as Completed: Toggle the completion status of a todo by clicking the "Complete" button.
-- Delete Todos: Remove a todo by clicking the "Delete" button. 
+- Delete Todos: Remove a todo by clicking the "Delete" button.
+
+### **DEfination:**
+Supabase is an open-source alternative to Firebase that has been gaining a lot of popularity. It is a Backend-as-a-Service (BaaS) platform with PostgreSQL as its core, allowing you to self-host without relying on Firebase.
+
+People love how easy it is to build a REST API using Supabase.
 
 ---
 
