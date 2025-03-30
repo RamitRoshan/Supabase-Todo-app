@@ -1,7 +1,8 @@
 ## **📌 Todo List App with Supabase, React, and Vite**  
 This is a simple **Todo List Application** built with **React, Supabase, and Vite**. It allows users to **create, read, update, and delete (CRUD)** their own tasks, stored securely in a **Supabase database**.  
 
-🚀 **Live Demo:** _(Add your Vercel link here)_  
+🚀 **Live Demo:** 
+[Supabase Todo App](https://supabase-todo-app-bice.vercel.app/)
 
 ---
 
@@ -53,7 +54,9 @@ npm run dev
 
 ---
 
-  
+
+### **Supabase website:**
+[Supabase official](https://supabase.com/dashboard/project/wateqhtxnvcochahdjtn/editor/29291)
 
 ---
 
